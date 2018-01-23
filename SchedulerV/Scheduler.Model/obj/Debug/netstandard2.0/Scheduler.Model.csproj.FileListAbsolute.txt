@@ -1,0 +1,9 @@
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\bin\Debug\netstandard2.0\Scheduler.Model.deps.json
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\bin\Debug\netstandard2.0\Scheduler.Model.dll
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\bin\Debug\netstandard2.0\Scheduler.Model.pdb
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\obj\Debug\netstandard2.0\Scheduler.Model.csprojResolveAssemblyReference.cache
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\obj\Debug\netstandard2.0\Scheduler.Model.csproj.CoreCompileInputs.cache
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\obj\Debug\netstandard2.0\Scheduler.Model.AssemblyInfoInputs.cache
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\obj\Debug\netstandard2.0\Scheduler.Model.AssemblyInfo.cs
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\obj\Debug\netstandard2.0\Scheduler.Model.dll
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.Model\obj\Debug\netstandard2.0\Scheduler.Model.pdb

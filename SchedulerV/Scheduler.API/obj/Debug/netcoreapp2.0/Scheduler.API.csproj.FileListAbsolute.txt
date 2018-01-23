@@ -1,0 +1,11 @@
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\bin\Debug\netcoreapp2.0\Scheduler.API.deps.json
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\bin\Debug\netcoreapp2.0\Scheduler.API.runtimeconfig.json
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\bin\Debug\netcoreapp2.0\Scheduler.API.runtimeconfig.dev.json
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\bin\Debug\netcoreapp2.0\Scheduler.API.dll
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\bin\Debug\netcoreapp2.0\Scheduler.API.pdb
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\obj\Debug\netcoreapp2.0\Scheduler.API.csprojResolveAssemblyReference.cache
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\obj\Debug\netcoreapp2.0\Scheduler.API.csproj.CoreCompileInputs.cache
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\obj\Debug\netcoreapp2.0\Scheduler.API.AssemblyInfoInputs.cache
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\obj\Debug\netcoreapp2.0\Scheduler.API.AssemblyInfo.cs
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\obj\Debug\netcoreapp2.0\Scheduler.API.dll
+c:\users\el mahdi ar\source\repos\SchedulerV\Scheduler.API\obj\Debug\netcoreapp2.0\Scheduler.API.pdb
